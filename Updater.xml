@@ -1,0 +1,9 @@
+<RomUpdater>
+    <update>
+        <RomLatestVersion>20170110</RomLatestVersion>
+        <URL>http://dropbox.sandbox2000.com/ota/aosp_hammerhead-ota-eng.itc.zip</URL>
+        <Changelog>
+            - Test Updater
+        </Changelog>
+    </update>
+</RomUpdater>

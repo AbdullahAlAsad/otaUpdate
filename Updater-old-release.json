@@ -1,0 +1,25 @@
+[
+  {
+    "prerelease": "false",
+    "stable": "true",
+    "latest" : "true",
+    "tag_name": "Build Name",
+    "id": 2859018,
+    "name": "aosp_hammerhead-ota-eng.itc.zip",
+    "release_date": "2017-01-20T16:16:02Z",
+    "browser_download_url": "http://dropbox.sandbox2000.com/ota/aosp_hammerhead-ota-eng.itc.zip",
+    "body": "This is my change log",
+    "version" : "20170110"
+  },
+  {
+    "prerelease": "false",
+    "stable": "true",
+    "tag_name": "Build 2 Name",
+    "id": 2859019,
+    "name": "app-debug.apk",
+    "release_date": "2016-12-20T20:16:02Z",
+    "browser_download_url": "http://dropbox.sandbox2000.com/ota/aosp_hammerhead-ota-eng.itcv2.zip",
+    "body": "This is my change log"
+  }
+
+]
