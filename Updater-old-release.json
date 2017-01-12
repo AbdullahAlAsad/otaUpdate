@@ -6,10 +6,10 @@
     "tag_name": "Siempo ROM Latest",
     "id": 1,
     "name": "aosp_hammerhead-ota-eng.itc.zip",
-    "release_date": "2017-01-12T16:16:02Z",
+    "release_date": "2017-01-13T16:16:02Z",
     "browser_download_url": "http://dropbox.sandbox2000.com/ota/aosp_hammerhead-ota-eng.itc.zip",
     "body": "This is latest version of Siempo OS",
-    "version" : "20170112"
+    "version" : "20170113"
   },
   {
     "prerelease": "false",
