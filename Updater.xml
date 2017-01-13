@@ -1,9 +1,10 @@
 <RomUpdater>
     <update>
-        <RomLatestVersion>20170113</RomLatestVersion>
-        <URL>http://dropbox.sandbox2000.com/ota/aosp_hammerhead-ota-eng.itc.zip</URL>
+        <RomLatestVersion>20170114</RomLatestVersion>
+        <URL>http://dropbox.sandbox2000.com/ota/siempov013011341.zip</URL>
         <Changelog>
-            - Rom without siempo launcher
+           	- Rom with siempo launcher
+		- Checked version 
         </Changelog>
     </update>
 </RomUpdater>

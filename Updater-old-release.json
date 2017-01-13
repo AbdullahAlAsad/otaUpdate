@@ -5,20 +5,20 @@
     "latest" : "true",
     "tag_name": "Siempo ROM old 1",
     "id": 1,
-    "name": "aosp_hammerhead-ota-eng.itc.zip",
-    "release_date": "2017-01-12T16:16:02Z",
-    "browser_download_url": "http://dropbox.sandbox2000.com/ota/aosp_hammerhead-ota-eng.itcv1.zip",
+    "name": "siempov013011341.zip",
+    "release_date": "2017-01-13T13:41:02Z",
+    "browser_download_url": "http://dropbox.sandbox2000.com/ota/siempov013011341.zip",
     "body": "This is 1st old version of Siempo OS",
-    "version" : "20170113"
+    "version" : "20170114"
   },
   {
     "prerelease": "false",
     "stable": "true",
     "tag_name": "Old build of Siempo OS",
     "id": 0,
-    "name": "aosp_hammerhead-ota-eng.itcv1.zip",
-    "release_date": "2016-12-20T20:16:02Z",
-    "browser_download_url": "http://dropbox.sandbox2000.com/ota/aosp_hammerhead-ota-eng.itcv2.zip",
+    "name": "siempov013011249.zip",
+    "release_date": "2017-01-13T20:12:49Z",
+    "browser_download_url": "http://dropbox.sandbox2000.com/ota/siempov013011341.zip",
     "body": "This is 2nd old version of  siempo rom"
   }
 
